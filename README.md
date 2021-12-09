@@ -1,4 +1,4 @@
-#PyDM Application Template for LCLS Photon Instruments
+# PyDM Application Template for LCLS Photon Instruments
 
 This is an application template with some boilerplate code for launching
 pydm applications on the photon side.
